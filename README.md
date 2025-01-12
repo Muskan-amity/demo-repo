@@ -2,4 +2,4 @@
 <br>
 This is my first Github repository.
 <br>
-Author Name - Muskan 
+Author Name - Muskan(thakur)
